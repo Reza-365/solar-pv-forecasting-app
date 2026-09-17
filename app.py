@@ -642,10 +642,10 @@ def main():
         st.caption(
             "The app reads the latest Google Sheet history, "
             "recreates the training feature pipeline, runs the saved selected models, "
-            "and applies the saved dynamic stacker recursively."
-            "*All rights reserved*"
-            "Developed by- S. M. Rezaul Karim, PhD Candidate, DUET"
-            "Email: rezaiubat@gmail.com, Cell: +8801725833289"
+            "and applies the saved dynamic stacker recursively. "
+            "All rights reserved. "
+            "Developed by- S. M. Rezaul Karim, PhD Candidate, DUET "
+            "Email: rezaiubat@gmail.com, Cell: +8801725833289 "
             "Supervisor: Prof. Dr. Md. Monirul Kabir, DEEE, DUET"
         )
     live_forecast_panel()
