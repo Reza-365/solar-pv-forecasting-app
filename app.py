@@ -513,8 +513,8 @@ def make_forecast(raw_df, trained, stacker, q_scores, assessment, imputer, x_sca
 def main():
     st.title("☀️ Solar PV Live Forecast")
     st.caption(
-        "Using Q-learning uncertainty-aware dynamic stacking models and IoT based data logger "
-        "© S. M. Rezaul Karim & Prof. Dr. Md. Monirul Kabir "
+        "Using Q-learning uncertainty-aware dynamic stacking models and IoT based data logger. "
+        "© S. M. Rezaul Karim & Prof. Dr. Md. Monirul Kabir, "
         "Dhaka University of Engineering & Technology (DUET)"
     )
 
