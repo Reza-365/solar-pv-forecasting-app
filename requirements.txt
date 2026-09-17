@@ -1,0 +1,14 @@
+# Streamlit Community Cloud deployment
+# IMPORTANT: deploy this app with Python 3.12 (recommended) or 3.13.
+streamlit==1.64.0
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.14.1
+scikit-learn==1.6.1
+joblib==1.4.2
+xgboost==2.1.4
+lightgbm==4.5.0
+tensorflow==2.21.0
+keras==3.13.2
+gspread==6.1.4
+google-auth==2.35.0
